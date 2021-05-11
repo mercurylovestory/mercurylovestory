@@ -1,3 +1,4 @@
+![alt text](https://github.com/[mercurylovestory]/[mercurylovestory]/blob/[main]/resume.png?raw=true)
 ### Hi there 👋
 
 <!--
