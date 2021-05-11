@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="200%" src="https://raw.githubusercontent.com/mercurylovestory/mercurylovestory/main/resume.png" alt="My Resume!">
+	<img width="200%" src="https://raw.githubusercontent.com/mercurylovestory/mercurylovestory/main/resumeback.png" alt="My Resume!">
 </div>
 ### Hi there 👋
 
