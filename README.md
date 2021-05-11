@@ -1,4 +1,6 @@
-![https://github.com/[mercurylovestory]/[mercurylovestory]/blob/[main]/resume.png?raw=true]
+<div align="center">
+	<img width="200%" src="https://raw.githubusercontent.com/mercurylovestory/mercurylovestory/main/resume.png" alt="My Resume!">
+</div>
 ### Hi there 👋
 
 <!--
