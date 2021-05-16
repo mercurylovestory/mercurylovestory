@@ -1,6 +1,8 @@
 <div align="center">
 	<img width="200%" src="https://raw.githubusercontent.com/mercurylovestory/mercurylovestory/main/resumeback.png" alt="My Resume!">
 </div>
+
+<--
 ### Hi there 👋
 
 
@@ -45,3 +47,4 @@ Please read the [contribution guidelines](contributing.md) first.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
+-->
